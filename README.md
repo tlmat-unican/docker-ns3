@@ -48,6 +48,6 @@ To run network the the _BuildUp.py_ file:
 python3 BuildUp.py
 ```
 
-# Contact
+## Contact
 
 Luis Diez; [email](mailto:ldiez@tlmat.unican.es). [University of Cantabria](https://web.unican.es/), [Communications Engineering Department](https://www.tlmat.unican.es/).
